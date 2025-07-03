@@ -8,3 +8,133 @@
 |2014||
 |2015||
 |2016||
+
+
+>比如部分问题的示例
+
+
+|URL|问题|创建时间|
+|----|-----|--------|
+|https://www.zhihu.com/question/19863715/log|搜课网的模式是否靠谱？转化率究竟如何？与 SEM 相比是否更有效？|2011-09-27 23:05:20|
+|https://www.zhihu.com/question/19863717/log|土地估计师与房地产估价师有什么不同？|2011-09-27 23:13:32|
+|https://www.zhihu.com/question/1913723650785404013/log|封建王朝为什么总是陷入财政崩溃的循环?|2025-06-04 22:27:53|
+|https://www.zhihu.com/question/22719537/log|如何保存某位知乎用户的所有答案？|2014-02-11 22:04:51|
+|https://www.zhihu.com/question/19861441/log|去香港读 LLM，要准备些什么东西？对雅思、托福的要求怎么样？|2011-09-25 23:04:03|
+|https://www.zhihu.com/question/19861444/log|截至目前，你觉得人生中最大的遗憾是什么？|2011-09-25 23:04:32|
+|https://www.zhihu.com/question/19861445/log|搜索引擎搜搜pk百度，胜算几何？|2011-09-25 23:07:55|
+|https://www.zhihu.com/question/19861447/log|公路物流信息平台怎么做车和货的匹配？|2011-09-25 23:10:18|
+|https://www.zhihu.com/question/19861451/log|在军校用什么工具办黑板报更创新更好看？|2011-09-25 23:11:45|
+|https://www.zhihu.com/question/19861454/log|你一年会安排几次中短途度假旅游？|2011-09-25 23:12:46|
+|https://www.zhihu.com/question/19861458/log|英语国家人的计数的方法是什么？|2011-09-25 23:13:02|
+|https://www.zhihu.com/question/19861461/log|为什么 Evernote 这个软件的客户端会那么大？|2011-09-25 23:14:27|
+|https://www.zhihu.com/question/19861464/log|山寨平板電腦是用怎樣的方式支持3G上網?|2011-09-25 23:15:30|
+|https://www.zhihu.com/question/19861466/log|平台整合需要哪些因素？|2011-09-25 23:16:25|
+|https://www.zhihu.com/question/19861467/log|怎样让自己有成就感？让你有成就感的事情有哪些？|2011-09-25 23:21:35|
+|https://www.zhihu.com/question/19861472/log|911事件中将飞机准确撞向双子塔难度有多高？|2011-09-25 23:24:17|
+|https://www.zhihu.com/question/19861473/log|新浪微博「作业本」的成功秘籍是什么？|2011-09-25 23:29:15|
+|https://www.zhihu.com/question/19861477/log|你干过最牛的一件事是什么？|2012-11-05 00:00:39|
+|https://www.zhihu.com/question/19861478/log|注册一个电子邮箱的正确用户名格式是什么？|2011-09-25 23:32:44|
+|https://www.zhihu.com/question/19861482/log|为什么台湾版普通话和大陆版普通话口音上有很大差别？|2011-09-25 23:35:20|
+|https://www.zhihu.com/question/19861485/log|为什么黄皮的石榴比较好吃？|2011-09-25 23:38:08|
+|https://www.zhihu.com/question/19861486/log|什么是知乎？|2011-09-25 23:41:36|
+|https://www.zhihu.com/question/19861490/log|学习 Android 内核开发的书和在线文档有哪些推荐？国内目前有哪些好的做 Android 的公司？|2011-09-25 23:45:09|
+|https://www.zhihu.com/question/19861491/log|哈佛哪个系是 psychiatric epidemiology 的大本营？|2011-09-25 23:50:52|
+|https://www.zhihu.com/question/19861492/log|想了解离散数学的知识，应该从哪本书看起？|2011-09-25 23:54:55|
+|https://www.zhihu.com/question/19861494/log|如果参加中文网志年会演讲，你想演讲什么内容？|2011-09-25 23:57:01|
+|https://www.zhihu.com/question/19861496/log|winnie是否有小孩子的小鸡鸡的意思呢？|2011-09-26 00:04:47|
+|https://www.zhihu.com/question/19861499/log|非计算机专业的人，想了解计算机到底是如何运作？如何编程？大家有相关类似比较浅显的书籍推荐吗？|2011-09-26 00:06:28|
+|https://www.zhihu.com/question/19861502/log|百姓网送十元话费活动，传闻是给用户办理了一个“北京创世有限公司的漫道客户关系通业务”，月底扣费30元，是真的吗？|2011-09-26 00:12:06|
+|https://www.zhihu.com/question/19861512/log|iPhone 4 的三轴陀螺仪和加速度计，可以用来进行短时间的惯性导航么？|2011-09-26 00:18:12|
+|https://www.zhihu.com/question/19861516/log|为什么西方游戏公司在日本频频折戟？|2011-09-26 00:21:36|
+|https://www.zhihu.com/question/19861520/log|如何提高中文的詞彙量？|2011-09-26 00:25:45|
+|https://www.zhihu.com/question/19861523/log|国外的一个小软件公司，出于成本考虑想在中国做一个子公司主要负责研发，公司做成什么形式比较好，外资还是内资？|2011-09-26 00:31:13|
+|https://www.zhihu.com/question/19861526/log|印度的IT工业有哪些出彩之处？|2011-09-26 00:32:54|
+|https://www.zhihu.com/question/19861527/log|如何速成粤语和粤语歌？|2011-09-26 00:33:39|
+|https://www.zhihu.com/question/19861531/log|指点传媒的主要市场是不是集中在华南地区呢？近来你们在移动app广告市场上投入很大，是不是你们的下一个主要发力点呢？|2016-05-10 16:15:19|
+|https://www.zhihu.com/question/19861534/log|面临选择的时候，有什么比较实用的方法或技巧可最大限度的增大做出非盲目选择的概率？|2011-09-26 00:53:11|
+|https://www.zhihu.com/question/19861535/log|开复，移民香港后如何适应香港？|2016-05-10 16:07:37|
+|https://www.zhihu.com/question/19861539/log|在SNS中，如何鼓励用户取消关注/拉黑？|2011-09-26 01:02:39|
+|https://www.zhihu.com/question/19863721/log|1节废弃的5号电池会对1平方米的土地造成污染50年？|2011-09-27 23:14:31|
+|https://www.zhihu.com/question/19863722/log|开心网的用户大量流失，原因在哪？|2011-09-27 23:26:15|
+|https://www.zhihu.com/question/22719537/log|如何保存某位知乎用户的所有答案？|2014-02-11 22:04:51|
+|https://www.zhihu.com/question/1913723650785404013/log|封建王朝为什么总是陷入财政崩溃的循环?|2025-06-04 22:27:53|
+|https://www.zhihu.com/question/19860441/log|返利网的订单跟踪的技术是怎么实现的？|2011-09-24 19:17:11|
+|https://www.zhihu.com/question/19860443/log|hello boy! welcome! ?|2016-05-10 16:15:19|
+|https://www.zhihu.com/question/19860444/log|有哪些学习日语动漫图片的大图？|2011-09-24 19:28:38|
+|https://www.zhihu.com/question/19860448/log|秋冬如何把白色棉布长裙穿出应季时髦感？|2011-09-24 19:29:52|
+|https://www.zhihu.com/question/19860452/log|UC 浏览器名字中的 UC 取自什么意思？|2011-09-24 19:41:00|
+|https://www.zhihu.com/question/19860456/log|为什么中国内地的百事可乐没有日本的细长型包装？采用哪种形式由谁决定？|2011-09-24 19:42:32|
+|https://www.zhihu.com/question/19860460/log|怎样不用无线路由器，使手机连接wifi上网？|2011-09-24 19:43:13|
+|https://www.zhihu.com/question/19860465/log|书籍等出版物上市的时候外面是否用塑料包装包起来是由谁决定的？|2011-09-24 19:47:12|
+|https://www.zhihu.com/question/19860466/log|为什么中国古代会出现政府开支不足的现象？|2011-09-24 19:47:20|
+|https://www.zhihu.com/question/19860470/log|怎样改变世界？|2011-09-24 19:47:59|
+|https://www.zhihu.com/question/19860472/log|如何保证非直系子女的赡养义务？|2011-09-24 19:48:28|
+|https://www.zhihu.com/question/19860474/log|多玩李学凌先生所说的与腾讯的一战指什么？|2011-09-24 19:48:41|
+|https://www.zhihu.com/question/19860475/log|一个罪犯A对另一个罪犯B犯罪，两个人都是杀人犯，而且这时都还没被抓且不是同伙，如果最后A和B都进了监狱，B能起诉A嘛？ B进了监狱，谁来享有他该得到的赔偿？ 比如物质赔偿？|2011-09-24 19:52:34|
+|https://www.zhihu.com/question/19860478/log|Google Translate 的发音标准吗？|2011-09-24 19:53:29|
+|https://www.zhihu.com/question/19860480/log|知乎出了 Android 客户端没？|2011-09-24 19:57:16|
+|https://www.zhihu.com/question/19860482/log|国内最好用的博客网站是哪个？|2011-09-24 20:01:02|
+|https://www.zhihu.com/question/19860485/log|2011年9月24日的 Google Doodle 到底有多少彩蛋？|2011-09-24 20:03:06|
+|https://www.zhihu.com/question/19860488/log|神舟 k470 刚升级了声卡驱动，静音了还有声音，怎么回事？|2011-09-24 20:06:12|
+|https://www.zhihu.com/question/19863725/log|原创设计产品在中国有多大的市场？Etsy 的模式在中国是否可行？|2011-09-27 23:26:49|
+|https://www.zhihu.com/question/19860490/log|在哪个网站买曲一线的书最物美价廉？|2011-09-24 20:10:02|
+|https://www.zhihu.com/question/19860491/log|做 Android 开发前景如何？ 有关 Android 开发的书籍有哪些？|2011-09-24 20:16:36|
+|https://www.zhihu.com/question/19863729/log|有哪些简单、免费、适合中小型企业的 CRM 软件？|2011-09-27 23:27:56|
+|https://www.zhihu.com/question/19863730/log|如何进行微博好友的分组？|2011-09-27 23:27:23|
+|https://www.zhihu.com/question/19863731/log|iPhone 内置的地图应用图标上的大头针位置，对应是哪个地方？|2011-09-27 23:28:16|
+|https://www.zhihu.com/question/19863733/log|搜狐视频的盈利模式是什么？|2011-09-27 23:32:18|
+|https://www.zhihu.com/question/19863734/log|如何区别社会化网络服务和社会网络化服务？|2011-09-27 23:42:54|
+|https://www.zhihu.com/question/19863736/log|乐观是什么？刻意不去想那些不快的事情？面对无法解决的问题，逃避也无所谓么？|2011-09-27 23:44:27|
+|https://www.zhihu.com/question/19863739/log|视频网站除了上市外，最终结果会如何？|2011-09-27 23:45:56|
+|https://www.zhihu.com/question/19863741/log|船级社的IT咨询涉及哪些方面呢？|2016-05-10 16:15:20|
+|https://www.zhihu.com/question/19863743/log|矩阵有什么实际意义？|2011-09-27 23:57:03|
+|https://www.zhihu.com/question/19863750/log|个人姓名和对应的身份证号被泄漏会对本人造成什么危害？会有被如何利用的风险？|2011-09-28 00:03:21|
+|https://www.zhihu.com/question/19863751/log|究竟应不应该兼容 IE6 ？|2011-09-28 00:07:50|
+|https://www.zhihu.com/question/19863753/log|Jeff Hawkins 再回来拿下 Palm 的话, webOS 能起死回生吗？|2011-09-28 00:12:10|
+|https://www.zhihu.com/question/19863757/log|华为招聘时的性格测试依据是什么？难道是按时完成答题？|2011-09-28 00:14:35|
+|https://www.zhihu.com/question/19863760/log|56 网的流量和观看量在今天的视频网站阵营中排名多少？|2011-09-28 00:15:12|
+|https://www.zhihu.com/question/19863764/log|在哪里可以了解到世界上各条运河和运港？|2011-09-28 00:17:32|
+|https://www.zhihu.com/question/19863765/log|计算机人才市场现在是否已经饱和？|2011-09-28 00:18:20|
+|https://www.zhihu.com/question/19863769/log|为什么新浪微博偏向 Facebook、腾讯微博偏向 Twitter？|2011-09-28 00:25:05|
+|https://www.zhihu.com/question/19863773/log|对比十年前的幼儿园，现如今有了多少改变？|2011-09-28 00:25:17|
+|https://www.zhihu.com/question/19863775/log|在初学 Java 时应额外注意哪些要点？或者是以什么样的顺序来学 Java ？|2011-09-28 00:26:16|
+|https://www.zhihu.com/question/19863777/log|你更乐于接受多少字的回答？|2011-09-28 00:29:38|
+|https://www.zhihu.com/question/19863781/log|九九公社是什么网站？|2011-09-28 00:30:27|
+|https://www.zhihu.com/question/19863785/log|英文域名好还是双拼域名好？|2011-09-28 00:30:44|
+|https://www.zhihu.com/question/19863787/log|如何看待中国互联网创业者抄袭美国模式问题？|2011-09-28 00:34:33|
+|https://www.zhihu.com/question/19863789/log|如何购买一个境内岛屿？|2011-09-28 00:41:29|
+|https://www.zhihu.com/question/19863791/log|用梯度下降解线性回归问题时，如果学习因子过大的话，训练过程就会发散，我的程序也证实了这一点，可是如何从数学上理解呢？|2011-09-28 00:42:53|
+|https://www.zhihu.com/question/19863793/log|中国步入老龄化社会，做一个关于老年人的互联网产品会有多大的市场？|2011-09-28 00:43:13|
+|https://www.zhihu.com/question/19863794/log|知乎的困境在哪里？|2011-09-28 00:56:41|
+|https://www.zhihu.com/question/19863795/log|知乎的私信是否应该考虑增加自动保存和草稿功能？|2011-09-28 00:57:17|
+|https://www.zhihu.com/question/19863797/log|苹果正式发出10月4日新一代 iPhone 发布会的邀请函，从邀请函中能看出什么信息？|2011-09-28 00:59:29|
+|https://www.zhihu.com/question/19863800/log|你工作以来最大的感悟是什么？|2011-09-28 00:59:38|
+|https://www.zhihu.com/question/19863804/log|性格可以被改造吗？如何改造呢？|2011-09-28 01:02:50|
+|https://www.zhihu.com/question/19863805/log|什么是「伪需求」？能否举例说明？|2011-09-28 01:15:47|
+|https://www.zhihu.com/question/19863806/log|怎样鉴别产品的真需求、伪需求？|2016-05-10 16:04:21|
+|https://www.zhihu.com/question/19863810/log|为什么国内的云服务或是VPS Hosting，相比国外要贵许多？|2011-09-28 01:29:31|
+|https://www.zhihu.com/question/19863811/log|糖尿病人怎么降血糖？|2011-09-28 01:34:35|
+|https://www.zhihu.com/question/19863813/log|穿越库布齐沙漠需要做哪些准备？|2011-09-28 01:41:37|
+|https://www.zhihu.com/question/19860500/log|您所在企业IT不能解决的问题有哪些？|2011-09-24 20:33:39|
+|https://www.zhihu.com/question/19863817/log|罗永浩 2011 演讲的地点日期是什么？|2011-09-28 02:16:30|
+|https://www.zhihu.com/question/19860503/log|工作总觉得跟同事没有共同话题，很害怕做错事，该如何摆正心态呢？|2011-09-24 20:36:43|
+|https://www.zhihu.com/question/19863820/log|请问知乎什么时候有针对查找好友的搜索功能？|2011-09-28 02:24:15|
+|https://www.zhihu.com/question/19860507/log|人类的性生活为何是隐秘的？而其他很多动物的性生活是公开的？|2011-09-24 20:39:37|
+|https://www.zhihu.com/question/19863824/log|初学书法用什么毛笔好些呢？|2011-09-28 03:35:06|
+|https://www.zhihu.com/question/19863830/log|为什么西方国家不支持巴勒斯坦建国，为什么中俄支持巴勒斯坦建国呢？|2011-09-28 07:16:35|
+|https://www.zhihu.com/question/19863831/log|Mac OS X Lion 下如何安装 wget ？|2011-09-28 07:41:56|
+|https://www.zhihu.com/question/19863832/log|怎么听出来演唱者是否在用心唱歌呢？|2011-09-28 07:45:04|
+|https://www.zhihu.com/question/19863835/log|没有了感动之心怎么办？|2011-09-28 08:25:58|
+|https://www.zhihu.com/question/19863836/log|作为一个中国的产品经理，使用 MacBook 有什么好处和坏处？|2011-09-28 08:26:52|
+|https://www.zhihu.com/question/19863838/log|国外有什么经典的介绍风险投资的书？|2011-09-28 08:30:12|
+|https://www.zhihu.com/question/19863840/log|为什么没人为 Linux Terminal 设计键入提示功能?|2011-09-28 08:34:48|
+|https://www.zhihu.com/question/19860513/log|北斗一代与二代在应用上有哪些进步？可以卫星监控视频吗？|2011-09-24 20:46:15|
+|https://www.zhihu.com/question/19863843/log|本地微博如何发展？|2011-09-28 08:38:53|
+|https://www.zhihu.com/question/19863856/log|哪里能下载到星际研究类的教学视频？|2011-09-28 09:02:54|
+|https://www.zhihu.com/question/19863858/log|重庆主城区有什么地方值得去，有什么小吃值得吃？|2011-09-28 10:47:49|
+|https://www.zhihu.com/question/19863859/log|Oracle 数据库的内部时间能修改吗？如果能，如何修改？|2011-09-28 09:10:36|
+|https://www.zhihu.com/question/19863861/log|华为提出的重塑 ICT 是否会使电信运营商进一步沦为廉价的管道提供者？|2011-09-28 09:14:08|
+|https://www.zhihu.com/question/19860515/log|一个Scheme程序，不知那里错了？|2011-09-24 20:47:31|
+|https://www.zhihu.com/question/19863865/log|在 Firefox 4.01 下，无法关注知乎的问题吗？|2011-09-28 09:15:40|
+|https://www.zhihu.com/question/19860516/log|要学习翻译合同，有什么书可以看看呢？|2011-09-24 20:49:01|
+|https://www.zhihu.com/question/19863869/log|各大手机厂商手机里自己的 WAP 站都叫什么名字？|2011-09-28 09:18:23|
