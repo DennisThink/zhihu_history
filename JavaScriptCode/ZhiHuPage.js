@@ -6,9 +6,9 @@
  */
 
 
-var startIndex=19860440;
-var howManyPages=1000;
-var localServerURL="http://127.0.0.1:3000/hello";
+var startIndex=19790516;
+var howManyPages=10000;
+var localServerURL="http://localhost:3000/hello";
 
 class CZhiHuHistoryStruct{
     constructor(url, title,createTime) {
@@ -129,7 +129,7 @@ async function fetchPageContent(url) {
     console.log(retResult2.greet());
     if(retResult2.isOK()){
         const userData={"URL":retResult2.url,"Title":retResult2.title,"CreateTime":retResult2.createTime};
-        await postData("http://127.0.0.1:3000/hello",userData);
+        await postData("http://localhost:3000/hello",userData);
     }else{
         console.log("Get Result Failed");
     }
